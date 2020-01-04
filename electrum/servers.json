@@ -5,6 +5,16 @@
         "t": "50001",
         "version": "1.4"
     },
+    "electrum2.cryptoescudo.org: {
+        "pruning": "-",
+        "t": "50001",
+        "version": "1.0"
+    },
+    "electrum1.cryptoescudo.org": {
+        "pruning": "-",
+        "t": "50001",
+        "version": "1.0"
+    },
     "nelectrum2.cryptoescudo.pt": {
         "pruning": "-",
         "s": "50002",
@@ -16,15 +26,5 @@
         "t": "50001",
         "s": "50002",
         "version": "1.4"
-    },
-    "electrum2.cryptoescudo.org: {
-        "pruning": "-",
-        "t": "50001",
-        "version": "1.0"
-    },
-    "electrum1.cryptoescudo.org": {
-        "pruning": "-",
-        "t": "50001",
-        "version": "1.0"
     }
 }
